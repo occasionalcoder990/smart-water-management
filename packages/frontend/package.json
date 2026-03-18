@@ -22,14 +22,14 @@
     "axios": "^1.4.0",
     "socket.io-client": "^4.7.1",
     "recharts": "^2.7.2",
-    "zod": "^3.21.4"
+    "zod": "^3.21.4",
+    "vite": "^4.4.5",
+    "@vitejs/plugin-react": "^4.0.3",
+    "typescript": "^5.1.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "@vitejs/plugin-react": "^4.0.3",
-    "vite": "^4.4.5",
-    "typescript": "^5.1.6",
     "@testing-library/react": "^14.0.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/user-event": "^14.4.3",
